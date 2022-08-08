@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>OmegaUX</title>
+    <link href="https://www.omegaux.com/feed.xml" rel="self" />
+    <link href="https://www.omegaux.com" />
+    <updated>2022-08-08T12:41:23+07:00</updated>
+    <author>
+        <name>ak5</name>
+    </author>
+    <id>https://www.omegaux.com</id>
+
+    <entry>
+        <title>OmegaUX</title>
+        <author>
+            <name>ak5</name>
+        </author>
+        <link href="https://www.omegaux.com/omegaux.html"/>
+        <id>https://www.omegaux.com/omegaux.html</id>
+
+        <updated>2022-08-08T12:41:23+07:00</updated>
+            <summary>
+                <![CDATA[
+                    This is a test page
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>This is a test page</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
