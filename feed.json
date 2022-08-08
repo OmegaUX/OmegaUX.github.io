@@ -5,6 +5,7 @@
     "home_page_url": "https://www.omegaux.com",
     "feed_url": "https://www.omegaux.com/feed.json",
     "user_comment": "",
+    "icon": "https://www.omegaux.com/media/website/logo-long-w2x.png",
     "author": {
         "name": "ak5"
     },
@@ -21,7 +22,7 @@
             "tags": [
             ],
             "date_published": "2022-08-08T12:41:23+07:00",
-            "date_modified": "2022-08-08T12:41:23+07:00"
+            "date_modified": "2022-08-08T15:38:02+07:00"
         }
     ]
 }
